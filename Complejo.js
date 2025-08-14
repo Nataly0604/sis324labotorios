@@ -39,4 +39,4 @@ const resta = c1.restar(c2);
 
 console.log("Suma:", suma.mostrar());
 console.log("Resta:", resta.mostrar());
-console.log("TOSUBE PINTO NATALY");
+console.log("TOSUBE PINTO NATALY ");
